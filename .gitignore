@@ -3,3 +3,4 @@ build/
 .env
 src/supabase.js
 *.log
+.vercel
