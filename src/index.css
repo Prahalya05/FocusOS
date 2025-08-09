@@ -1,3 +1,2 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Tailwind is loaded via CDN in public/index.html; no local PostCSS processing needed */
+/* You can add custom styles here if needed */
